@@ -1,3 +1,4 @@
 original_repo/
 .venv/
-**/__pyache__/
+.vscode/
+**/__pycache__/*
